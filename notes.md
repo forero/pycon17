@@ -4,7 +4,7 @@
   grandtheftauto.  
 * A cellphone could run the neural network, but the current implementation
   uses an nvidia card.  
-* Their company is called piensa.  
+* Their company is called PiensaLabs.  
 
 ### Image Processing and computer vision. Jorge Martinez (also working at PiensaLabs, Barranquilla).
 
@@ -21,4 +21,16 @@
 * pytorch -> libreria de redes convlucionales liberada por facebook para reconocimiento y style transfer
 * yolo tracking -> youtube video doing recognition YOLO: You Only Learn Once
 * style transfer facebook -> youtube video.
+
+### Lennin Suescun (PiensaLabs)
+
+* AI vs. AI two chatbots talking to each other -> youtube things.
+* Machine Learning Tipico.
+  Supervisado (que perro es? etiquetamos nosotros antes),
+  No Supervisado (Se da informacion de algunas clases y otras no, para ver si logra ver la diferencia)
+  Reinforcement Learning (Se le da feedback sobre los resultados. Si juega algo, le decimos si al final perdio o gano)
+* No es magia: son muchos datos de entrenamiento con un contexto adecuado.
+* Training, validation, testing.
+* vatic->herramienta para hacer anotaciones en imagenes.
+* 15000 frames anotados de videos para udacity.  
 
