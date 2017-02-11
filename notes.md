@@ -11,6 +11,10 @@ BUSCAR: zenhub, zengithub
 * raw data -> clean data -> strategic insight -> real world scoring
 * Spark, Luigi, Airflow, Dask. Herramientas para dataflow.
 * How to deploy a model. Jupyter, yhat, domino, palladium, azure, flask microservice
+* Zinkevich rules for deploying ML models.
+* www.peadarcoyle.com
+* LIME para reducir la complejidad de resultados de ML y hacerlo entendible para humanos.
+
 
 ### Hacking my car with python (Ariel Nunez, Barranquilla)
 
