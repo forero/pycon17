@@ -1,10 +1,15 @@
+### Miguel Cabrera - Building Data Pipelines with Python - TrustYou @Berlin
+
+* Un poco lo mismo de Daniel Moreno, pero con Luigi.
+* JODER, en realidad deberiamos usar esto para el end-to-end data challenge en DESI.
+* `import luigi` 
+
 ### Daniel Moreno - Airflow to manage workflows.
 
 * `github.com/apacha/incubator-airflow`
 * `pip instal airflow`, `pip install airflow[mysql]`
 * IDEA: Cual seria la posibilidad de usar airflow para mover/procesar datos de DESI?
 * demorenoc.github.io/slides/pycon-co-2017/airflow
-
 
 ### Manuel Kauffman (Genio!)
 
