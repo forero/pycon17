@@ -1,4 +1,16 @@
-BUSCAR: zenhub, zengithub
+### Manuel Kauffman (Genio!)
+
+* Como hacer preguntas inteligentes de Eric Raymond.
+* TODO: buscar, definitivamente todo lo que el ha ehcho en python argentina,
+  especialmente lo del viaje por el pais.
+* IDEA: Unir todo lo de astro4dev con la COMUNIDAD python que ya esta haciendo
+  cosas con comunidad.xs
+* IDEA: Repensar el metodo de Django Girls para actividades de astro3dev.
+* IDEA: comprar muchas raspberry pys para hacer talleres de programacion en lugares
+  donde es dificil acceder a laptops.
+* MOTTO: Siempre hablar de astronomia en cualquier lugar que nos encontremos.
+* IDEA: Hablar con la Python Software Foundation para unir esfuerzos con la OAD.
+
 
 ### Peder - Data Science.
 
@@ -58,4 +70,9 @@ BUSCAR: zenhub, zengithub
 * Neuralab.  
 * Genial intro a machine learning y redes neuronales.  
 * Buscar el MNIST de udacity en tensorflow.
-* Buscar el ejemplo del cartpole 
+* Buscar el ejemplo del cartpole
+
+
+
+==
+BUSCAR: zenhub, zengithub
