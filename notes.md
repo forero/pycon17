@@ -1,16 +1,23 @@
+### Daniel Moreno - Airflow to manage workflows.
+
+* `github.com/apacha/incubator-airflow`
+* `pip instal airflow`, `pip install airflow[mysql]`
+* IDEA: Cual seria la posibilidad de usar airflow para mover/procesar datos de DESI?
+* demorenoc.github.io/slides/pycon-co-2017/airflow
+
+
 ### Manuel Kauffman (Genio!)
 
 * Como hacer preguntas inteligentes de Eric Raymond.
-* TODO: buscar, definitivamente todo lo que el ha ehcho en python argentina,
+* TODO: buscar, definitivamente todo lo que el ha hecho en python argentina,
   especialmente lo del viaje por el pais.
 * IDEA: Unir todo lo de astro4dev con la COMUNIDAD python que ya esta haciendo
   cosas con comunidad.xs
 * IDEA: Repensar el metodo de Django Girls para actividades de astro3dev.
 * IDEA: comprar muchas raspberry pys para hacer talleres de programacion en lugares
   donde es dificil acceder a laptops.
-* MOTTO: Siempre hablar de astronomia en cualquier lugar que nos encontremos.
 * IDEA: Hablar con la Python Software Foundation para unir esfuerzos con la OAD.
-
+* MOTTO: Siempre hablar de astronomia en cualquier lugar que nos encontremos.
 
 ### Peder - Data Science.
 
