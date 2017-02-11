@@ -1,3 +1,17 @@
+BUSCAR: zenhub, zengithub
+
+### Peder - Data Science.
+
+* Lab vs. Factory  
+* Analysis vs. Building. Stats vs Code. Static vs. Live.  
+* Data Science is Hard: Data + technical prblems, skill set, machine learning ops.  
+* margingoodson ten ways your data project is going to fail.  
+* github.com/ianozsvald/data_science_delivered  
+* good cultures: data democratizations, clear objectives.
+* raw data -> clean data -> strategic insight -> real world scoring
+* Spark, Luigi, Airflow, Dask. Herramientas para dataflow.
+* How to deploy a model. Jupyter, yhat, domino, palladium, azure, flask microservice
+
 ### Hacking my car with python (Ariel Nunez, Barranquilla)
 
 * DeepDrive Universe: youtube video to see how a neural network plays
@@ -34,3 +48,10 @@
 * vatic->herramienta para hacer anotaciones en imagenes.
 * 15000 frames anotados de videos para udacity.  
 
+
+### Christian Garcia - Introduction to deep learning with Tensorflow 
+
+* Neuralab.  
+* Genial intro a machine learning y redes neuronales.  
+* Buscar el MNIST de udacity en tensorflow.
+* Buscar el ejemplo del cartpole 
